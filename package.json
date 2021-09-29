@@ -1,0 +1,23 @@
+{
+  "name": "foundry_bot",
+  "version": "1.0.0",
+  "description": "To promote #foundryvtt creators, I retweet your posts tagged #foundryvtt (but to prevent unwanted retweet spam, you have to follow me first)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vttred/foundry_bot.git"
+  },
+  "author": "VTT Red LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vttred/foundry_bot/issues"
+  },
+  "homepage": "https://github.com/vttred/foundry_bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  }
+}
